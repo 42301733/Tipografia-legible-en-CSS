@@ -31,3 +31,13 @@ h2 {
   padding: 1rem;
   border-left: 0.25rem solid currentColor;
 }
+.resumen {
+  font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+  line-height: 1.5;
+  max-width: 65ch;
+  margin-inline: auto;
+  font-weight: 500;
+  padding: 1rem;
+  border-left: 4px solid #3b82f6;
+  background-color: #f0f9ff;
+}
